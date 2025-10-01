@@ -1,0 +1,23 @@
+{
+  "model_type": "Logistic Regression",
+  "test_accuracy": 0.993,
+  "cv_mean": 0.9915,
+  "cv_std": 0.0017940875118009254,
+  "num_categories": 12,
+  "categories": [
+    "education",
+    "entertainment",
+    "fitness",
+    "food",
+    "healthcare",
+    "insurance",
+    "rent",
+    "shopping",
+    "technology",
+    "transport",
+    "travel",
+    "utilities"
+  ],
+  "training_samples": 8000,
+  "test_samples": 2000
+}

@@ -1,0 +1,21 @@
+merchant,description,amount,predicted_category,confidence
+KFC,family bucket meal,45.99,food,94.3%
+Starbucks,morning coffee and pastry,8.5,food,96.5%
+Walmart,weekly groceries shopping,127.83,shopping,68.8%
+Uber,ride to airport,25.4,transport,97.7%
+Chevron,fuel tank full,52.3,transport,81.3%
+Walgreens,flu medicine and vitamins,28.75,healthcare,46.2%
+Family Clinic,annual checkup appointment,150.0,healthcare,90.5%
+Verizon,monthly phone bill,85.99,utilities,43.5%
+ComEd,electricity usage March,110.45,utilities,62.2%
+AMC Theaters,movie tickets for 2,24.0,entertainment,96.0%
+Spotify,premium music subscription,9.99,entertainment,76.1%
+Marriott Hotel,3 nights business trip,420.0,travel,84.4%
+Southwest Airlines,roundtrip flight Chicago,280.5,travel,43.8%
+Planet Fitness,monthly gym membership,29.99,fitness,97.6%
+H&M,spring clothing shopping,89.45,shopping,96.3%
+Best Buy,laptop charger,39.99,shopping,41.1%
+Chipotle,lunch burrito bowl,12.75,food,91.1%
+Shell,car wash service,15.0,transport,92.4%
+CVS Pharmacy,prescription refill,45.5,healthcare,69.7%
+Netflix,monthly streaming service,15.99,entertainment,96.1%
